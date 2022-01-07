@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button text="Retry" display-tooltip-when-elided="true" name="retry-button" style="height: 303px; width: 439px; background-color: rgba(88, 88, 88, 0); font-size: 150%; -unity-font-style: bold; left: 2%; top: 2%; color: rgb(255, 0, 0); position: absolute;" />
+    <ui:Label text="Label" display-tooltip-when-elided="true" name="distance-label" style="height: 313px; width: 458px; right: 2%; top: 2%; white-space: nowrap; font-size: 150px; left: auto; position: absolute; bottom: auto; -unity-text-align: middle-center; color: rgba(255, 0, 0, 255);" />
+</ui:UXML>
